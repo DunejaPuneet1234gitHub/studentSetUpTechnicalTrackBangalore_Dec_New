@@ -28,7 +28,7 @@ public class AuthenticationService {
 					
 			String key = userInfo.getName()+userInfo.getDOB()+userInfo.getCountry();
 			
-			System.out.println("value of the key is "+key);
+			System.out.println("Changed SOP---value of the key is "+key);
 			
 			System.out.println("size of the key is "+key.length());
 			
